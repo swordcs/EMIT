@@ -1,0 +1,1 @@
+docker run -m 8G --cpus=4 -it -d --name  -p 10022:22 -p 15432:5432 ubuntu-postgres:1.1.1  
