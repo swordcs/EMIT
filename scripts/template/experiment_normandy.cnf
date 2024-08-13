@@ -1,0 +1,8 @@
+listen_addresses		= '*'
+logging_collector		= on
+log_filename		= 'postgresql-%Y-%m-%d.log'
+log_timezone		= 'Asia/Shanghai'
+shared_preload_libraries		= 'auto_explain'
+auto_explain.sample_rate		= 0.01
+auto_explain.log_min_duration		= 0
+auto_explain.log_format		= json
