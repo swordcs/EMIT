@@ -1,4 +1,4 @@
-# This is the code repository for EMIT
+# This is the code repository for EMIT: Micro-invasive Database Configuration Tuning
 
 ## Usage
 
